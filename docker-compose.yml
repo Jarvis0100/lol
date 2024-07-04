@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+  web:
+    image: myimage12456
+    ports:
+      - "8000:8000"
